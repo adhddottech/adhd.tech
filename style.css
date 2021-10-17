@@ -1,0 +1,19 @@
+body {
+  font-family: "Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+
+div.site-header {
+  display: inline-flex;
+  align-items: flex-end;
+}
+
+a.site-header {
+  text-decoration: none;
+}
